@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "331321365912",
+    "firebase_url": "https://android-video-call-5fb63-default-rtdb.firebaseio.com",
+    "project_id": "android-video-call-5fb63",
+    "storage_bucket": "android-video-call-5fb63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331321365912:android:4c3dacaa88dca1897e07ed",
+        "android_client_info": {
+          "package_name": "com.nsromapa.saytoonz.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331321365912-uald4qo17fspr29ebns5i07mtqflrog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxtCnj8r9i1m_zzpt4zl6yjC3Frcse64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331321365912-uald4qo17fspr29ebns5i07mtqflrog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331321365912:android:5d46f67f183d47aa7e07ed",
+        "android_client_info": {
+          "package_name": "com.nsromapa.saytoonz.webrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331321365912-uald4qo17fspr29ebns5i07mtqflrog3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxtCnj8r9i1m_zzpt4zl6yjC3Frcse64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331321365912-uald4qo17fspr29ebns5i07mtqflrog3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
